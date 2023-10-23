@@ -78,7 +78,6 @@ body {
 
 /* Estilos para o cabeçalho e navbar */
 header {
-    position: fixed;
     padding: 1rem 20%;
     display: flex;
     justify-content: space-between;
